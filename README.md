@@ -2,7 +2,7 @@
  Understanding Technology Foundations  
 Kristy Reed â€“ Week 1 Technology Foundations  
 ### Cloud â€¢ Networking â€¢ GRC â€¢ Computing Basics  
-Date: March 26, 2026  
+Date: March 03, 2026  
 
 This project contains my completed assignment for Week 1 of the Quarantyne Academy â€“ March 26 Cohort Class.  
 It demonstrates fundamental technical knowledge across computer systems, networks, cloud models, and GRC concepts.
